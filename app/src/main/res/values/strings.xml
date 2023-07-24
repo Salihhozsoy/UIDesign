@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">First</string>
+
+    <string-array name="Country">
+        <item>"Turkey</item>
+        <item>"England</item>
+        <item>"France</item>
+        <item>"Italy</item>
+        <item>"Greek</item>
+    </string-array>
+
+    <string-array name="City">
+        <item>"İstanbul</item>
+        <item>"Londra</item>
+        <item>"Paris</item>
+        <item>"Roma</item>
+        <item>"Atina</item>
+    </string-array>
+</resources>
